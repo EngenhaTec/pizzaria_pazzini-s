@@ -19,13 +19,19 @@ A seguir, os passos para a preparação do projeto:
 10. Segurança é imprescindível nas plataforma de hospedagem de repositórios GIT. CUIDADO com exposição de senha e acesso ao repositório.
 
 
-# Projeto: *<Nome_do_seu_Projeto>*
+# Projeto: *Pizzaria Pazzini's*
 
-# Grupo: *<Nome_do_seu_Grupo>*
+# Grupo: *EngenhaTec*
 
 # Descrição
 
-*<Descrição_resumida_do_projeto>*
+
+O projeto de desenvolvimento de software para a Pazzini's Pizza tem como objetivo principal solucionar os problemas enfrentados pela cadeia de fast-food e entrega em casa, que está perdendo clientes devido a questões no serviço de entrega. Para isso, será desenvolvido um sistema abrangente que incluirá um sistema de pedidos online e de geolocalização para determinar a loja mais próxima do cliente, além de sistemas de gestão de entregas e produção para otimizar todo o processo. Essa iniciativa será conduzida seguindo uma metodologia ágil, dividida em fases de levantamento de requisitos, design, implementação e teste, visando garantir uma entrega eficaz e eficiente do projeto, alinhada com as necessidades e expectativas da Pazzini's Pizza.
+
+
+
+
+
 
 # Documentação
 
