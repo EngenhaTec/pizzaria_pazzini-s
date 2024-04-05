@@ -29,7 +29,7 @@
 
 * Jean Pazzini Domingues - RA: 10420319
 * Jean Alex Da Silva - RA: 10426728
-* Aluno 3
+* Bruna França Martinez - RA :  10420225
 * Aluno 4
 * Aluno 5
 * Aluno 6
