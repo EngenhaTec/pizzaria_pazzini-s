@@ -28,7 +28,7 @@
 ## Autores
 
 * Jean Pazzini Domingues - RA: 10420319
-* Aluno 2
+* Jean Alex Da Silva - RA: 10426728
 * Aluno 3
 * Aluno 4
 * Aluno 5
