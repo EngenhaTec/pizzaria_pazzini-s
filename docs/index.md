@@ -3,7 +3,7 @@
 
 
 <font size="+12"><center>
-*&lt;Nome do Projeto&gt;*
+*Pizzaria Pazzini's*
 </center></font>
 
 >*Observação 1: A estrutura inicial deste documento é só um exemplo. O seu grupo deverá alterar esta estrutura de acordo com o que está sendo solicitado na disciplina.*
@@ -12,7 +12,7 @@
 
 **Conteúdo**
 
-- [Autores](#nome-alunos)
+- [Autores](#autores)
 - [Descrição do Projeto](#introdução-do-projeto)
 - [Análise de Requisitos Funcionais e Não-Fucionais](#descrição-dos-requisitos)
 - [Diagrama de Atividades](#diagrama-de-atividades) 
@@ -25,9 +25,9 @@
 - [Referências](#referências)
 
 
-# Autores
+## Autores
 
-* Aluno 1
+* Jean Pazzini Domingues - RA: 10420319
 * Aluno 2
 * Aluno 3
 * Aluno 4
