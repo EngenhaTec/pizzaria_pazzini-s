@@ -31,7 +31,7 @@
 * Jean Alex Da Silva - RA: 10426728
 * Bruna França Martinez - RA :  10420225
 * Deborah jamilly de Abreu Souza - RA: 10420342
-* Aluno 5
+* Alex Cruz de Santana - RA: 10420357
 * Aluno 6
 * Aluno 7
 * Aluno 8
