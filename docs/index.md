@@ -36,7 +36,7 @@
 
 # Descrição do Projeto
 
-*&lt;Introdução do projeto&gt;*
+A Pizza-Express, uma cadeia de 40 lojas de fast-food e entrega em casa, enfrenta uma perda de 30% no rendimento de vendas devido à concorrência que oferece entrega em 30 minutos. O gerente de sistemas de informação, Elonn Muske, lidera um projeto para desenvolver um software que otimize as operações de entrega. A empresa Papa-Léguas Delivery, patrocinadora do projeto, destaca sua importância para o futuro da Pizza-Express. A equipe busca reduzir o tempo de entrega para menos de 30 minutos, considerando a abertura de lojas especializadas em receber, preparar e entregar pedidos em até 15 minutos. O projeto envolve o desenvolvimento de dois sistemas de software: um para o atendimento de pedidos e localização da loja mais próxima, e outro para suportar as operações da fábrica de pizzas. Profissionalismo e colaboração são fundamentais para o sucesso da equipe.
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 *&lt;Descrição dos requisitos&gt;*
