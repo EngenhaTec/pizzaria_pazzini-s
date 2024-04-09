@@ -51,7 +51,7 @@
 
 # Descrição dos Casos de Uso
 
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+[Baixar o arquivo .xlsx](eng_sof_des_caso_uso.xlsx)
 
 # Diagrama de Sequência
 
