@@ -13,16 +13,16 @@
 **Conteúdo**
 
 - [Autores](#autores)
-- [Descrição do Projeto](#introdução-do-projeto)
-- [Análise de Requisitos Funcionais e Não-Fucionais](#descrição-dos-requisitos)
+- [Descricao do Projeto](#descricao-do-projeto)
+- [Análise de Requisitos Funcionais e Não-Fucionais](#)
 - [Diagrama de Atividades](#diagrama-de-atividades) 
 - [Diagrama de Casos de Uso](#diagrama-de-casos-de-uso)
 - [Descrição dos Casos de Uso](#descrição-dos-casos-de-uso)
-- [Diagrama de Sequencia](#diagrama-de-sequencia)
-- [Diagrama de Classes](#diagrama-orientado-objetos)
-- [Diagrama de Estados](#diagrama-estrutura-componente)
-- [Diagrama de Implantação](#diagrama-de-hardware-software)
-- [Referências](#referências)
+- [Diagrama de Sequencia](#)
+- [Diagrama de Classes](#)
+- [Diagrama de Estados](#)
+- [Diagrama de Implantação](#)
+- [Referências](#)
 
 
 ## Autores
@@ -34,7 +34,7 @@
 * Alex Cruz de Santana - RA: 10420357
 
 
-# Descrição do Projeto
+# Descricao do Projeto
 
 A Pizza-Express, uma cadeia de 40 lojas de fast-food e entrega em casa, enfrenta uma perda de 30% no rendimento de vendas devido à concorrência que oferece entrega em 30 minutos. O gerente de sistemas de informação, Elonn Muske, lidera um projeto para desenvolver um software que otimize as operações de entrega. A empresa Papa-Léguas Delivery, patrocinadora do projeto, destaca sua importância para o futuro da Pizza-Express. A equipe busca reduzir o tempo de entrega para menos de 30 minutos, considerando a abertura de lojas especializadas em receber, preparar e entregar pedidos em até 15 minutos. O projeto envolve o desenvolvimento de dois sistemas de software: um para o atendimento de pedidos e localização da loja mais próxima, e outro para suportar as operações da fábrica de pizzas. Profissionalismo e colaboração são fundamentais para o sucesso da equipe.
 
