@@ -32,9 +32,6 @@
 * Bruna França Martinez - RA :  10420225
 * Deborah jamilly de Abreu Souza - RA: 10420342
 * Alex Cruz de Santana - RA: 10420357
-* Aluno 6
-* Aluno 7
-* Aluno 8
 
 
 # Descrição do Projeto
@@ -46,11 +43,11 @@
 
 # Diagrama de Atividades
 
-*&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
+![](/docs/diagrama_de_atividade.jfif)
 
 # Diagrama de Casos de Uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+![](/docs/diagrama_casos_de_uso.jfif)
 
 # Descrição dos Casos de Uso
 
