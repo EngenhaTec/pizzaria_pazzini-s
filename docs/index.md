@@ -18,7 +18,7 @@
 - [Diagrama de Atividades](#diagrama-de-atividades) 
 - [Diagrama de Casos de Uso](#diagrama-de-casos-de-uso)
 - [Descrição dos Casos de Uso](#descrição-dos-casos-de-uso)
-- [Diagrama de Sequencia](#)
+- [Diagrama de Sequencia](#diagrama-de-sequencia)
 - [Diagrama de Classes](#)
 - [Diagrama de Estados](#)
 - [Diagrama de Implantação](#)
@@ -55,7 +55,9 @@ A Pizza-Express, uma cadeia de 40 lojas de fast-food e entrega em casa, enfrenta
 
 # Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+![](/docs/logar_cliente.png)
+![](/docs/logar_funcionario.png)
+![](/docs/fazer_pedido.png)
 
 # Diagrama de Classes
 
