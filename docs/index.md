@@ -18,7 +18,7 @@
 - [Diagrama de Atividades](#diagrama-de-atividades) 
 - [Diagrama de Casos de Uso](#diagrama-de-casos-de-uso)
 - [Descrição dos Casos de Uso](#descrição-dos-casos-de-uso)
-- [Diagrama de Sequencia](#diagrama-de-sequencia)
+- [Diagrama de Sequência](#diagrama-de-sequência)
 - [Diagrama de Classes](#)
 - [Diagrama de Estados](#)
 - [Diagrama de Implantação](#)
