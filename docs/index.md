@@ -19,8 +19,8 @@
 - [Diagrama de Casos de Uso](#diagrama-de-casos-de-uso)
 - [Descrição dos Casos de Uso](#descrição-dos-casos-de-uso)
 - [Diagrama de Sequência](#diagrama-de-sequência)
-- [Diagrama de Classes](#)
-- [Diagrama de Estados](#)
+- [Diagrama de Classes](#diagrama-de-classes)
+- [Diagrama de Estados](#diagrama-de-estados)
 - [Diagrama de Implantação](#)
 - [Referências](#)
 
@@ -61,11 +61,13 @@ A Pizza-Express, uma cadeia de 40 lojas de fast-food e entrega em casa, enfrenta
 
 # Diagrama de Classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![image](https://github.com/EngenhaTec/pizzaria_pazzini-s/assets/147003212/f1f51c70-5c82-43d3-8333-83c47265c92e)
+
 
 # Diagrama de Estados
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
+![image](https://github.com/EngenhaTec/pizzaria_pazzini-s/assets/147003212/e83a8257-0afd-46bb-aed4-89a453bfca16)
+
 
 # Diagrama de Implantação
 
