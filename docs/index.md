@@ -70,6 +70,7 @@ A Pizza-Express, uma cadeia de 40 lojas de fast-food e entrega em casa, enfrenta
 
 
 # Diagrama de Implantação
+![Diagramadeimplantação](https://github.com/EngenhaTec/pizzaria_pazzini-s/assets/145717954/94bf76bd-c3b8-406f-85de-152884e7cf5a)
 
 *&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
 
